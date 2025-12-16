@@ -34,7 +34,12 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img
+  src="https://skillicons.dev/icons?i=python,php,docker,laravel,mysql,github,vscode,react,next,typescript"
+  alt="Skills"
+ />
+<br /><br />
+
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
