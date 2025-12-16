@@ -22,7 +22,12 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,c,c++,c#,python,php,mysql,github,vscode,laravel,discord" /> <br /><br />
+<img
+  src="https://skillicons.dev/icons?i=html,css,c,cpp,cs,python,php,mysql,github,vscode,laravel,discord"
+  alt="Skills: HTML, CSS, C, C++, C#, Python, PHP, MySQL, GitHub, VSCode, Laravel, Discord"
+/>
+<br /><br />
+
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
